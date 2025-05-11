@@ -1,0 +1,52 @@
+{
+  "timezones": [
+    {
+      "name": "America/New_York",
+      "standardUtcOffset": "-05:00",
+      "standardAbbreviation": "EST",
+      "region": "America"
+    },
+    {
+      "name": "America/Los_Angeles",
+      "standardUtcOffset": "-08:00",
+      "standardAbbreviation": "PST",
+      "region": "America"
+    },
+    {
+      "name": "Europe/London",
+      "standardUtcOffset": "+00:00",
+      "standardAbbreviation": "GMT",
+      "region": "Europe"
+    },
+    {
+      "name": "Europe/Berlin",
+      "standardUtcOffset": "+01:00",
+      "standardAbbreviation": "CET",
+      "region": "Europe"
+    },
+    {
+      "name": "Asia/Tokyo",
+      "standardUtcOffset": "+09:00",
+      "standardAbbreviation": "JST",
+      "region": "Asia"
+    },
+    {
+      "name": "Asia/Shanghai",
+      "standardUtcOffset": "+08:00",
+      "standardAbbreviation": "CST",
+      "region": "Asia"
+    },
+    {
+      "name": "Australia/Sydney",
+      "standardUtcOffset": "+10:00",
+      "standardAbbreviation": "AEST",
+      "region": "Australia"
+    },
+    {
+      "name": "Pacific/Auckland",
+      "standardUtcOffset": "+12:00",
+      "standardAbbreviation": "NZST",
+      "region": "Pacific"
+    }
+  ]
+}
