@@ -2,8 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/timezone-codes.svg)](https://www.npmjs.com/package/timezone-codes)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI Status](https://github.com/venkatajanapareddy/timezone-codes/workflows/CI/badge.svg)](https://github.com/venkatajanapareddy/timezone-codes/actions)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
+[![CI Status](https://github.com/venkatajanapareddy/timezone-codes/workflows/CI%2FCD/badge.svg)](https://github.com/venkatajanapareddy/timezone-codes/actions)
 
 A comprehensive, typed dataset of IANA timezone identifiers with metadata. This library provides a complete list of IANA timezone names along with their standard UTC offsets, common abbreviations, and regions. Perfect for datetime pickers, global dashboards, scheduling apps, and localization engines.
 
