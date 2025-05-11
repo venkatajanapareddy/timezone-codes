@@ -1,6 +1,6 @@
 {
   "name": "timezone-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive, typed dataset of IANA timezone identifiers with metadata.",
   "type": "module",
   "author": "Venkata Phanindra Kumar Janapareddy",
